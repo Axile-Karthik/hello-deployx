@@ -34,7 +34,7 @@ npm install
 npm run dev     # http://localhost:3000
 npm run build   # outputs to dist/
 ```
-testing deploy X 2
+testing deploy X 3
 ## Environment variables (optional)
 
 Set these in GitHub Actions or your CI to show real build info:
